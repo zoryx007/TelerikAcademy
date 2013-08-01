@@ -1,0 +1,5 @@
+C:\Users\INTUITIV-08\Documents\Visual Studio 2012\Izpit\Garden\bin\Debug\Garden.exe
+C:\Users\INTUITIV-08\Documents\Visual Studio 2012\Izpit\Garden\bin\Debug\Garden.pdb
+C:\Users\INTUITIV-08\Documents\Visual Studio 2012\Izpit\Garden\obj\Debug\Garden.csprojResolveAssemblyReference.cache
+C:\Users\INTUITIV-08\Documents\Visual Studio 2012\Izpit\Garden\obj\Debug\Garden.exe
+C:\Users\INTUITIV-08\Documents\Visual Studio 2012\Izpit\Garden\obj\Debug\Garden.pdb
